@@ -1,4 +1,4 @@
-![logo](https://github.com/Mohsanjan/Mohsanjan.m/blob/main/Add%20a%20heading.jpg)
+![logo](https://github.com/Mohsanjan/Mohsanjan.m/blob/main/Add%20a%20heading%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Mohsan jan</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <image align="right" alt="coding" width="350" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif">
